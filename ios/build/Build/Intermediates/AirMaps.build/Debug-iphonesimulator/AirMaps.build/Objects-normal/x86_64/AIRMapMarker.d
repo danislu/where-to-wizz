@@ -1,0 +1,33 @@
+dependencies: \
+  /Volumes/Data/Code/reactnative/where-to-wizz/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapMarker.m \
+  /Volumes/Data/Code/reactnative/where-to-wizz/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapMarker.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapCallout.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/node_modules/react-native-maps/lib/ios/AirMaps/AIRMap.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/node_modules/react-native-maps/lib/ios/AirMaps/Callout/SMCalloutView.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/node_modules/react-native-maps/lib/ios/AirMaps/RCTConvert+AirMap.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTImageLoader.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTResizeMode.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h

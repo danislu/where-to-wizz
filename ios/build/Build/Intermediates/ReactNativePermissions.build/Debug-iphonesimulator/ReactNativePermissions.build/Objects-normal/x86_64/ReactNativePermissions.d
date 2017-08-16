@@ -1,0 +1,33 @@
+dependencies: \
+  /Volumes/Data/Code/reactnative/where-to-wizz/node_modules/react-native-permissions/ReactNativePermissions.m \
+  /Volumes/Data/Code/reactnative/where-to-wizz/node_modules/react-native-permissions/ReactNativePermissions.h \
+  ../react-native/React/Base/RCTBridgeModule.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  ../react-native/React/Base/RCTConvert.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  ../react-native/React/Base/RCTEventDispatcher.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/node_modules/react-native-permissions/permissions/RNPLocation.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/node_modules/react-native-permissions/RCTConvert+RNPStatus.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/node_modules/react-native-permissions/permissions/RNPBluetooth.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/node_modules/react-native-permissions/permissions/RNPNotification.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/node_modules/react-native-permissions/permissions/RNPAudioVideo.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/node_modules/react-native-permissions/permissions/RNPEvent.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/node_modules/react-native-permissions/permissions/RNPPhoto.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/node_modules/react-native-permissions/permissions/RNPContacts.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/node_modules/react-native-permissions/permissions/RNPBackgroundRefresh.h \
+  /Volumes/Data/Code/reactnative/where-to-wizz/node_modules/react-native-permissions/permissions/RNPSpeechRecognition.h
