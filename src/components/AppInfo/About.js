@@ -11,7 +11,7 @@ const aboutStyle = StyleSheet.create({
     display: 'flex',
     flexDirection: 'column',
     alignItems: 'center',
-    padding: 10,
+    padding: 0,
     backgroundColor: 'white'
   },
   heading: {
@@ -24,8 +24,8 @@ const aboutStyle = StyleSheet.create({
 
 const About = () => (
   <View style={aboutStyle.wrapper}>
-    <Text style={aboutStyle.heading}>But why?</Text>
-    <Text style={aboutStyle.text}>Everybody need to pee, this will help you find where to do it in Bergen.</Text>
+    <Text style={aboutStyle.heading}>Where to Wizz - BGO</Text>
+    <Text style={aboutStyle.text}>For when you need to go number 1 or 2 in Bergen.</Text>
   </View>
 );
 

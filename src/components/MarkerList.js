@@ -52,15 +52,10 @@ const renderItem = getMarkerPath => ({ item: { id, title, content, distance } })
   </Link>
 );
 
-const bannerError = (error) => console.log('bannerError', error);
-
 export default ({ markers, getMarkerPath }) => {
   return (
     <View style={styles.dialog}>
-      <BannerAd />
-      {/* style={styles.dialog} */}
       <FlatList
-        
         data={markers.sort((a, b) => a.distance - b.distance)}
         renderItem={renderItem(getMarkerPath)}
         keyExtractor={item => item.id}

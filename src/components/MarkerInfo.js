@@ -1,6 +1,7 @@
 import React from 'react';
 import {
   Text,
+  Image,
   View,
   ScrollView,
   TouchableOpacity as Touchable
@@ -73,7 +74,7 @@ const icons = {
   marginVertical: 15,
   flexDirection: 'row',
   justifyContent: 'space-around',
-  alignItems: 'flex-end'
+  alignItems: 'flex-end',
 };
 
 const styles2 = {
@@ -82,9 +83,10 @@ const styles2 = {
     flexDirection: 'column',
   },
   container: {
+    marginTop: 0,
     flex: 1,
     flexDirection: 'column',
-    justifyContent: 'flex-start'
+    justifyContent: 'flex-start',
   },
   footer: {
     flex: 1,
@@ -103,7 +105,9 @@ const getDistanceLine = (distance) => {
 
 const MarkerInfo = ({ title, content, distance }) => (
   <Dialog>
-    <View style={styles2.container}>
+    <Image 
+      source={require('./../img/buried.png')}
+      style={styles2.container}>
       <Text style={styles.title}>{ title }</Text>
       <ScrollView style={styles2.scrollViewContainer}>
         <View style={icons}>
@@ -112,7 +116,7 @@ const MarkerInfo = ({ title, content, distance }) => (
         { getDistanceLine(distance) }
         { getContent(content) }
       </ScrollView>
-    </View>
+    </Image>
   </Dialog>
 );
 

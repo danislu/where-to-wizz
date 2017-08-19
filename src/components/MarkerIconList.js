@@ -2,7 +2,8 @@ import React from 'react';
 import Icon from './Icon';
 
 const iconStyle = {
-  marginHorizontal: 10
+  marginHorizontal: 10,
+  backgroundColor: 'transparent'
 };
 
 const isNULLorEmpty = obj => obj === 'NULL' || !obj;

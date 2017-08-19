@@ -1,7 +1,8 @@
 import React from 'react';
 import { Provider } from 'react-redux';
-import { MemoryRouter as Router, AndroidBackButton } from 'react-router-native';
-import App from './App';
+import { MemoryRouter as Router } from 'react-router-native';
+// import App from './App';
+import App from './TabApp';
 import { store, history } from './state/store';
 import { operations } from './state/ducks';
 
@@ -17,9 +18,7 @@ class RootComponent extends React.Component {
   render() {
     return (<Provider store={store}>
       <Router history={history}>
-        {/* <AndroidBackButton> */}
         <App />
-        {/* </AndroidBackButton> */}
       </Router>
     </Provider>);
   }

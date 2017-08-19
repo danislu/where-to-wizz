@@ -1,6 +1,6 @@
 import { connect } from 'react-redux';
 import { withRouter } from 'react-router-native';
-import Marker from './../components/MarkerInfo';
+import Marker from './../components/MarkerModal';
 
 const stateToProps = (state, { match }) => {
   const { markers: { items, distances } } = state;
@@ -12,4 +12,8 @@ const stateToProps = (state, { match }) => {
   };
 };
 
-export default withRouter(connect(stateToProps)(Marker));
+const dispatchToProps = (dispatch, { history }) => ({
+  onClosed: history.goBack
+});
+
+export default withRouter(connect(stateToProps, dispatchToProps)(Marker));

@@ -12,7 +12,7 @@ const add = (h) => {
   subscription = DeviceEventEmitter.addListener('locationUpdated', (location) => h({ coords: location }));
 };
 const remove = () => {
-  DeviceEventEmitter.removeListener('locationUpdated', subscription);
+  DeviceEventEmitter.removeAllListeners();
   Location.stopUpdatingLocation();
 }
 

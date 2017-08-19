@@ -65,7 +65,7 @@ const App = () => (
     <StatusBar />
     
     <NavigationBar
-      style={{ alignItems: 'center' }}
+      style={{ backgroundColor: 'blue', alignItems: 'center' }}
       title={titleConfig}
       rightButton={rightButtonConfig}
       leftButton={leftButtonConfig}
@@ -77,7 +77,6 @@ const App = () => (
           .filter(r => !r.isRoot)
           .map((r, i) => (<Route key={i} path={r.path} exact={r.exact} component={r.mainComponent} />))
       }
-      <BannerAd />
     </View>
   </View>
 );

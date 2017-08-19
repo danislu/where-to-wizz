@@ -4,6 +4,7 @@ import {
   View,
   Text,
   StyleSheet,
+  Platform
 } from 'react-native';
 import { Link } from 'react-router-native';
 import { 
@@ -13,32 +14,31 @@ import {
   AdMobRewarded
 } from 'react-native-admob'
 
-export default class BannerAd extends Component {
+const adUnitID = Platform.OS === "ios"
+  ? "ca-app-pub-8389467357810382/6614743300"
+  : "android adUnitId"
 
+export default class BannerAd extends Component {
   constructor(props) {
     super(props);
     this.state = { failed: false };
-
     this.bannerError = this.bannerError.bind(this);
   }
 
   bannerError(error) {
     this.setState({ failed: true });
-    console.log(error);
   }
 
   render() {
-    const { bannerSize, adUnitID } = this.props;
     const { failed } = this.state;
 
-    const theAdd = failed
-      ? (null)
-      : (<AdMobBanner 
-        style={{ marginBottom: 10 }}
-        bannerSize={ bannerSize || "fullBanner" }
-        adUnitID={ adUnitID || "your-admob-unit-id" }
+    const theAdd = (
+      <AdMobBanner 
+        bannerSize={"fullBanner"}
+        adUnitID={adUnitID}
         testDeviceID="EMULATOR"
-        didFailToReceiveAdWithError={this.bannerError} />)
+        didFailToReceiveAdWithError={this.bannerError} />
+    );
 
     return (
       <View style={{ backgroundColor: 'yellow' }}>
@@ -47,4 +47,9 @@ export default class BannerAd extends Component {
     );
   }
 }
+
+//App ID: ca-app-pub-8389467357810382~6865669521
+//Ad unit ID: ca-app-pub-8389467357810382/6614743300
+
+// {/* { failed ? null : theAdd } */}
 

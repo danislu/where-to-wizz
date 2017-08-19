@@ -5,14 +5,14 @@ export const mapText = {
 
 export const texts = {
   prefix: () => 'Doen på',
-  costSomething: cost => `koster ${cost} kr`,
-  costNothing: () => 'koster ingenting',
-  onlyPissoir: () => 'har bare pissoar',
-  distance: dist => `er ${dist} meter unna`,
-  hasWheelcharAccess: () => 'har rullestol tilgang',
-  hasNoWheelcharAccess: () => 'har ikke rullestol tilgang',
-  hasBabyStuff: () => 'har stellerom',
-  hasNoBabyStuff: () => 'uten stellerom',
+  costSomething: cost => `Koster ${cost} kr`,
+  costNothing: () => 'Koster ingenting',
+  onlyPissoir: () => 'Har bare pissoar',
+  distance: dist => `Er ${dist} meter unna`,
+  hasWheelcharAccess: () => 'Har rullestol tilgang',
+  hasNoWheelcharAccess: () => 'Har ikke rullestol tilgang',
+  hasBabyStuff: () => 'Med stellerom',
+  hasNoBabyStuff: () => 'Uten stellerom',
 };
 
 export const about = {
