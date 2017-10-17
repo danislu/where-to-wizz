@@ -6,9 +6,11 @@ import { SHOUT_DOWN, PERMISSION_CHANGED } from './../app';
 
 let watchId;
 const add = (h) => {
-  watchId = navigator.geolocation.watchPosition(p => h(p)); 
+  watchId = navigator.geolocation.watchPosition(p => h(p));
 }
-const remove = () => navigator.geolocation.clearWatch(watchId);
+const remove = () => {
+  navigator.geolocation.clearWatch(watchId);
+}
 
 const watchPositionEpic = action$ =>
   action$.ofType(PERMISSION_CHANGED)

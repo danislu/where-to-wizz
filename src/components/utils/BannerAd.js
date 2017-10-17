@@ -34,14 +34,13 @@ export default class BannerAd extends Component {
 
     const theAdd = (
       <AdMobBanner 
-        bannerSize={"fullBanner"}
         adUnitID={adUnitID}
         testDeviceID="EMULATOR"
         didFailToReceiveAdWithError={this.bannerError} />
     );
 
     return (
-      <View style={{ backgroundColor: 'yellow' }}>
+      <View style={{ backgroundColor: 'black' }}>
         { theAdd }
       </View>
     );

@@ -22,7 +22,7 @@ const copyright = {
 };
 
 const About = () => {
-  const openLink = () => Linking.openURL('http://danislu.github.io/dass-kart-bgo');
+  const openLink = () => Linking.openURL('https://lundekvam.io/about/');
   const openTwitter = () => Linking.openURL('http://twitter.com/danislu');
   const openGithub = () => Linking.openURL('http://github.com/danislu');
   const openInsta = () => Linking.openURL('http://instagr.am/danislu2');
@@ -37,9 +37,6 @@ const About = () => {
       </TouchableHighlight>
       <TouchableHighlight onPress={openTwitter}>
         <Icon name="twitter" size={20} style={{ marginHorizontal: 10 }} />
-      </TouchableHighlight>
-      <TouchableHighlight onPress={openInsta}>
-        <Icon name="instagram" size={20} style={{ marginHorizontal: 10 }} />
       </TouchableHighlight>
     </View>
   </View>);

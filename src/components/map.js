@@ -13,6 +13,7 @@ const icon = (<View style={{ flexDirection: 'row' }}>
 </View>);
 
 const getCurrentPosMarker = (currentPos) => {
+  console.log("currentPos", currentPos);
   if (currentPos) {
     return (
       <MapView.Marker

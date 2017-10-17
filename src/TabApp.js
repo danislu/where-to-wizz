@@ -34,7 +34,7 @@ const styles = StyleSheet.create({
     flex: 1,
     flexDirection: 'column',
     justifyContent: 'flex-start',
-    marginTop: 22
+    //marginTop: 22
   }
 });
 

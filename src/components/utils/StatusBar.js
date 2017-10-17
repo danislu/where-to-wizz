@@ -4,9 +4,9 @@ import { StatusBar, View, Platform } from 'react-native';
 export default () => (
     <View>
         <StatusBar />
-        { Platform.OS === 'android' && Platform.Version >= 20 
-            ? <View style={{ height: 24 }} />
-            : null }
+         { Platform.OS === 'ios'
+            ? <View style={{ height: 22 }} />
+            : null } 
     </View>
 );
 
