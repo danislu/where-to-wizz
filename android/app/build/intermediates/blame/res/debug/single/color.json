@@ -1,11 +1,11 @@
 [
     {
         "merged": "/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
-        "source": "/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/color/common_google_signin_btn_text_light.xml"
+        "source": "/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/color/common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
-        "source": "/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/color/common_google_signin_btn_text_dark.xml"
+        "source": "/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/color/common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
@@ -21,7 +21,7 @@
     },
     {
         "merged": "/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
-        "source": "/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/color/common_google_signin_btn_tint.xml"
+        "source": "/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/color/common_google_signin_btn_tint.xml"
     },
     {
         "merged": "/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",

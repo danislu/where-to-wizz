@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Aug 16 15:57:36 CEST 2017
+#Sun Sep 10 08:24:09 CEST 2017
 20.base=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_
 143.base=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_
 340.file=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_/res/anim/abc_slide_in_bottom.xml
@@ -57,7 +57,7 @@
 14.base=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/assets/debug
 163.file=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_/res/layout/select_dialog_singlechoice_material.xml
 40.file=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_/res/drawable-ldrtl-mdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
-379.set=ASSET
+379.set=JAVA_RESOURCE
 317.base=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_
 51.set=ANDROID_RESOURCE
 302.set=ANDROID_RESOURCE
@@ -149,8 +149,8 @@
 151.base=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_
 322.base=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_
 184.base=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_
-380.set=ANDROID_RESOURCE
-381.file=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_/res/anim/abc_slide_in_top.xml
+380.set=ASSET
+381.file=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png
 24.set=ANDROID_RESOURCE
 0.file=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
 94.base=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_
@@ -343,7 +343,7 @@
 63.base=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_
 186.base=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_
 80.file=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_/res/layout/abc_dialog_title_material.xml
-383.file=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png
+383.file=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
 44.set=ANDROID_RESOURCE
 2.file=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
 96.base=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_
@@ -522,6 +522,7 @@
 65.base=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_
 188.base=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_
 82.file=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_/res/layout/abc_screen_toolbar.xml
+385.file=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
 64.set=ANDROID_RESOURCE
 315.set=ANDROID_RESOURCE
 4.file=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png
@@ -565,7 +566,7 @@
 59.base=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar
 377.set=ANDROID_RESOURCE
 300.set=ANDROID_RESOURCE
-379.file=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/assets/debug/fonts/Octicons.ttf
+379.file=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/transforms/mergeJavaRes/debug/folders/2/1f/main/META-INF/services/com.google.protobuf.GeneratedExtensionRegistryLoader
 209.file=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_/res/drawable-ldrtl-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
 210.base=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_
 223.set=ANDROID_RESOURCE
@@ -601,6 +602,7 @@
 359.file=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/armeabi-v7a/libreactnativejnifb.so
 89.file=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_/res/layout/abc_action_bar_view_list_nav_layout.xml
 360.base=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_
+385.set=ANDROID_RESOURCE
 29.set=ANDROID_RESOURCE
 240.file=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_/res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png
 231.set=ANDROID_RESOURCE
@@ -639,7 +641,7 @@
 321.base=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_
 183.base=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_
 370.set=ANDROID_RESOURCE
-380.file=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+380.file=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/assets/debug/fonts/Octicons.ttf
 14.set=ASSET
 93.base=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_
 217.base=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_
@@ -797,6 +799,7 @@
 382.set=ANDROID_RESOURCE
 26.set=ANDROID_RESOURCE
 82.base=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_
+385.base=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_
 4.base=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_
 232.file=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png
 265.file=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
@@ -817,7 +820,7 @@
 323.base=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_
 185.base=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 62.base=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_
-382.file=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+382.file=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_/res/anim/abc_slide_in_top.xml
 34.set=ANDROID_RESOURCE
 1.file=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxxhdpi-v4/abc_ic_search_api_mtrl_alpha.png
 95.base=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_
@@ -832,7 +835,7 @@
 175.base=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_
 346.base=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_
 290.set=NATIVE_RESOURCE
-379.base=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/assets/debug
+379.base=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/transforms/mergeJavaRes/debug/folders/2/1f/main
 226.file=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_/res/drawable-mdpi-v4/abc_ic_clear_mtrl_alpha.png
 209.base=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_
 65.set=ANDROID_RESOURCE
@@ -918,7 +921,7 @@
 332.set=ANDROID_RESOURCE
 76.file=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
 255.set=ANDROID_RESOURCE
-380.base=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_
+380.base=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/assets/debug
 133.set=ANDROID_RESOURCE
 178.set=ANDROID_RESOURCE
 260.file=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_/res/drawable/common_google_signin_btn_icon_dark_normal.xml
@@ -996,7 +999,7 @@
 164.base=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_
 361.file=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_/res/drawable-mdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
 74.base=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_
-count=385
+count=386
 257.file=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_/res/layout/notification_template_lines.xml
 77.set=ASSET
 328.set=ANDROID_RESOURCE
@@ -1008,7 +1011,7 @@ count=385
 64.base=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_
 187.base=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_
 81.file=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png
-384.file=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+384.file=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png
 54.set=ANDROID_RESOURCE
 305.set=ANDROID_RESOURCE
 3.file=/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/resources-debug.ap_/res/mipmap-mdpi-v4/ic_launcher.png

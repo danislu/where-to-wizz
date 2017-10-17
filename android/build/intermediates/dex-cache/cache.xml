@@ -3,12 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/jars/libs/infer-annotations-1.5.jar"
+        jar="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/11.0.4/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
-        <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_c5271cdda255aaab24d90a00a096d67e1127133a.jar" />
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-11.0.4_b3c9ae8b1134ae1d355684eb73b01c49158137a8.jar" />
     </item>
     <item
         is-multidex="false"
@@ -30,12 +30,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/jars/classes.jar"
+        jar="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
-        <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.4_a75870bda3763796a82f550bd25baa5327f6710d.jar" />
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-11.0.4_5597ae8433f5d9b70b9967f43840504f4723cb08.jar" />
     </item>
     <item
         is-multidex="false"
@@ -48,12 +48,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jar="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_3eb4716e38c36af994cfeb934b15309b535ed112.jar" />
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_5e5f31c68fbce534aa2bde63b1b73e619fe232a3.jar" />
     </item>
     <item
         is-multidex="false"
@@ -75,12 +75,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jar="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/11.0.4/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
-        <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_41123870b3bfbef458c6009208a3f77804278129.jar" />
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-11.0.4_80940f037b727bdaaad542f9acbcd524787d6fa4.jar" />
     </item>
     <item
         is-multidex="false"
@@ -93,30 +93,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jar="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
-        <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_96e1099e6dbfc1059338959cdee629f027e7e7f0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.4/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
-        <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.4_ab4eb0321a2b2993c35a50d970605902da6716e7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
-        <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_8beb66334ed5313a94b4100354b7e246ddfee9ee.jar" />
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_447fc6d8f62e7907af4badd5696a04a7ded7b5d1.jar" />
     </item>
     <item
         is-multidex="false"
@@ -126,15 +108,6 @@
         revision="23.0.1"
         sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
         <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_394b119fa9937e0fa841f0319ec98f3878d3b3cf.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_65cc792dc65d19c416d5e64c9eae5f4cefb2e2c8.jar" />
     </item>
     <item
         is-multidex="false"
@@ -156,21 +129,138 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_04d004389179e9e40a23b23e1388da712ce9c796.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
         <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_3bd2c497626ec9b1ce1d8bf8eccc34a454fdbc61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_d5a34094b7cb504ec59888f375b7910dc501cf53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_4b4edfcd51ebed86ed118d79b2e647377a633607.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-11.0.4_15c1cf3ee4f1d87a649eaa05ffbb0e6bade7c74f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_cb42be6d199f9913a802c6a546393cf2f0471883.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_c5271cdda255aaab24d90a00a096d67e1127133a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-11.0.4_fc10154d134c69703619a34948183ee1992fa229.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-11.0.4_36015437b86360ae85e5b338cdee003be0076257.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_3eb4716e38c36af994cfeb934b15309b535ed112.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_0cf05b4981f91865347bfa630a0dac68b077cec7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/exploded-aar/wheretowizz/react-native-admob/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="21449f13b1d382578eab07fb71a847f5b7e8ed12">
+        <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/wheretowizz-react-native-admob-unspecified_32899b63900ba04f06ec42ed9d2250bc5e72f3e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_96e1099e6dbfc1059338959cdee629f027e7e7f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_8beb66334ed5313a94b4100354b7e246ddfee9ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_65cc792dc65d19c416d5e64c9eae5f4cefb2e2c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_04d004389179e9e40a23b23e1388da712ce9c796.jar" />
     </item>
     <item
         is-multidex="false"
@@ -183,21 +273,39 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/exploded-aar/wheretowizz/RNLocation/unspecified/jars/classes.jar"
+        jar="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="f46a4e05f73b4fc5fbbb4ed753f06dbd2d77b97e">
-        <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/wheretowizz-RNLocation-unspecified_af78c397f8face02be7ae132b5d4b3378bd541c1.jar" />
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_0882e810a32eddffd528b5783da557cacac93199.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/usr/local/Cellar/android-sdk/24.4.1_1/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jar="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/11.0.4/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
-        <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_601be6352e03a724768d0f4812949669d2e0cbd7.jar" />
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-11.0.4_c0af2096eb95e1b2e04ff235009dd8c640383d57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-11.0.4_725f70a4e7c3dfacf4d665f6dad8e2e398b6400e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/usr/local/Cellar/android-sdk/24.4.1_1/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_98e3b5b0324f16619514a1eb75212061ebbaba1b.jar" />
     </item>
     <item
         is-multidex="false"
@@ -219,21 +327,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jar="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
-        <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_237205d8a6e1870a805b0f194be9405dc28a29dc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_d5a34094b7cb504ec59888f375b7910dc501cf53.jar" />
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_8f92130c9c7db31ad205d2f25ee1ab13019c67bf.jar" />
     </item>
     <item
         is-multidex="false"
@@ -243,24 +342,6 @@
         revision="23.0.1"
         sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
         <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_191c6d4e932a4a50184129f77276939fc0f501b4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.4/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
-        <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.4_bb322d7d3a9425ae64f99f8739b566778ea049cb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
-        <dex dex="/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_cb42be6d199f9913a802c6a546393cf2f0471883.jar" />
     </item>
 
 </items>

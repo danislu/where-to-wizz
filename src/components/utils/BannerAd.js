@@ -16,7 +16,7 @@ import {
 
 const adUnitID = Platform.OS === "ios"
   ? "ca-app-pub-8389467357810382/6614743300"
-  : "android adUnitId"
+  : "ca-app-pub-8389467357810382/6347628923"
 
 export default class BannerAd extends Component {
   constructor(props) {

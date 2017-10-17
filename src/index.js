@@ -1,6 +1,7 @@
-import React from 'react';
+import React, { Component } from 'react';
 import { Provider } from 'react-redux';
 import { MemoryRouter as Router } from 'react-router-native';
+import { Text } from 'react-native';
 // import App from './App';
 import App from './TabApp';
 import { store, history } from './state/store';

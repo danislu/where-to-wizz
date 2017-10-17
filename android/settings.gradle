@@ -1,4 +1,5 @@
 rootProject.name = 'wheretowizz'
+
 include ':react-native-admob'
 project(':react-native-admob').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-admob/android')
 
@@ -7,8 +8,5 @@ project(':react-native-vector-icons').projectDir = new File(rootProject.projectD
 
 include ':react-native-maps'
 project(':react-native-maps').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-maps/lib/android')
-
-include ':RNLocation'
-project(':RNLocation').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-gps')
 
 include ':app'
