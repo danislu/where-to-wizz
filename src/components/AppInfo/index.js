@@ -8,12 +8,9 @@ import BannerAd from './../utils/BannerAd';
 import styles from './../styles';
 
 export default () => (
-  <Dialog>
-    <ScrollView style={styles.container}>
-      <BannerAd />
-      <Social />
-      <About />
-      <Filter />
-    </ScrollView>
-  </Dialog>
+  <ScrollView style={styles.container}>
+    <About />
+    <Social />
+    <Filter />
+  </ScrollView>
 );

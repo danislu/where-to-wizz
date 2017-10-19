@@ -3,6 +3,7 @@ package com.wheretowizz;
 import android.app.Application;
 
 import com.facebook.react.ReactApplication;
+import com.airbnb.android.react.maps.MapsPackage;
 import com.sbugert.rnadmob.RNAdMobPackage;
 import com.oblador.vectoricons.VectorIconsPackage;
 import com.airbnb.android.react.maps.MapsPackage;
@@ -10,7 +11,6 @@ import com.facebook.react.ReactNativeHost;
 import com.facebook.react.ReactPackage;
 import com.facebook.react.shell.MainReactPackage;
 import com.facebook.soloader.SoLoader;
-import com.syarul.rnlocation.RNLocation;
 
 import java.util.Arrays;
 import java.util.List;
@@ -29,8 +29,7 @@ public class MainApplication extends Application implements ReactApplication {
           new MainReactPackage(),
             new RNAdMobPackage(),
             new VectorIconsPackage(),
-            new MapsPackage(),
-            new RNLocation()
+            new MapsPackage()
       );
     }
   };

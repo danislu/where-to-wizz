@@ -1,19 +1,15 @@
-import { DeviceEventEmitter } from 'react-native';
 import { combineEpics } from 'redux-observable';
 import { Observable } from 'rxjs';
 import { updateCurrentPosition, regionChanged } from './actions';
 import { REGION_CHANGING } from './types';
 import { SHOUT_DOWN, PERMISSION_CHANGED } from './../app';
-import { RNLocation as Location } from 'NativeModules';
 
-let subscription;
+let watchId;
 const add = (h) => {
-  Location.startUpdatingLocation();
-  subscription = DeviceEventEmitter.addListener('locationUpdated', (location) => h({ coords: location }));
-};
+  watchId = navigator.geolocation.watchPosition(p => h(p));
+}
 const remove = () => {
-  DeviceEventEmitter.removeListener('locationUpdated', subscription);
-  Location.stopUpdatingLocation();
+  navigator.geolocation.clearWatch(watchId);
 }
 
 const watchPositionEpic = action$ =>

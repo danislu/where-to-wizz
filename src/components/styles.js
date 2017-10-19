@@ -2,13 +2,14 @@ import { StyleSheet } from 'react-native';
 
 const styles = StyleSheet.create({
   title: {
+    marginTop: 10,
     fontSize: 40,
     textAlign: 'center',
     backgroundColor: 'white'
   },
   line: {
-    fontSize: 30,
-    textAlign: 'center',
+    fontSize: 20,
+    textAlign: 'left',
     backgroundColor: 'white',
     paddingVertical: 0,
     marginBottom: 5
@@ -48,8 +49,8 @@ const styles = StyleSheet.create({
     padding: 20,
     justifyContent: 'flex-start',
     alignItems: 'center',
-    borderRadius: 5
-        // backgroundColor: 'white',
+    borderRadius: 5,
+    //backgroundColor: 'white',
   },
   buttonRow: {
     margin: 0,
@@ -70,7 +71,7 @@ const styles = StyleSheet.create({
     top: 0,
     left: 0,
     right: 0,
-    bottom: 64
+    bottom: 0
   }
 });
 
