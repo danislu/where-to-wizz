@@ -1,11 +1,11 @@
 import React, { PropTypes } from 'react';
 import MapView from 'react-native-maps';
-import { View } from 'react-native';
+import { View, StyleSheet, TouchableOpacity } from 'react-native';
 import { Link } from 'react-router-native';
 import Icon from './Icon';
 import styles from './styles';
 
-const userIcon = (<Icon name="map-marker" style={{ color: 'red' }} size={25} />);
+const userIcon = (<Icon name="map-marker" style={{ color: 'red' }} size={30} />);
 
 const iconSize = 25;
 const icon = (<View style={{ flexDirection: 'row' }}>
@@ -28,12 +28,13 @@ const getCurrentPosMarker = (currentPos) => {
   }
   return null;
 };
-
+        
 const MyMap = ({
   items,
   currentPos,
   initialRegion,
   getMarkerPath,
+  history,
   mapChanging
 }) => (<View style={styles.mapContainer}>
   <MapView
@@ -45,10 +46,8 @@ const MyMap = ({
       <MapView.Marker
         coordinate={marker.pos}
         key={idx + JSON.stringify(marker)}
-      >
-        <Link to={getMarkerPath(marker)}>
-        { icon }
-        </Link>
+        onPress={() => history.push(getMarkerPath(marker))} >
+          { icon }
       </MapView.Marker>
     ))}
     { getCurrentPosMarker(currentPos) }
