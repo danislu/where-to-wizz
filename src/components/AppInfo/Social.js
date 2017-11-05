@@ -24,7 +24,7 @@ const copyright = {
 const About = () => {
   const openLink = () => Linking.openURL('https://lundekvam.io/about/');
   const openTwitter = () => Linking.openURL('http://twitter.com/danislu');
-  const openGithub = () => Linking.openURL('http://github.com/danislu');
+  const openGithub = () => Linking.openURL('http://github.com/danislu/where-to-wizz');
   const openInsta = () => Linking.openURL('http://instagr.am/danislu2');
 
   return (<View style={{ flex: 1 }}>
