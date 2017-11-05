@@ -17,14 +17,14 @@ ADDED from /Users/daniellundekvam/Code/wheretowizz/android/app/src/main/AndroidM
 		ADDED from /Users/daniellundekvam/Code/wheretowizz/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
 ADDED from /Users/daniellundekvam/Code/wheretowizz/android/app/src/main/AndroidManifest.xml:6:5-67
-MERGED from [wheretowizz:react-native-maps:unspecified] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/wheretowizz/react-native-maps/unspecified/AndroidManifest.xml:9:5-67
-MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/11.0.4/AndroidManifest.xml:19:5-66
-MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/11.0.4/AndroidManifest.xml:20:5-66
+MERGED from [wheretowizz:react-native-maps:unspecified] /Users/daniellundekvam/Code/wheretowizz/node_modules/react-native-maps/lib/android/build/intermediates/bundles/default/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/daniellundekvam/.android/build-cache/9a5684adb65d347e94a94243c59d0fa45e527278/output/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/daniellundekvam/.android/build-cache/0847c9cdfe9f8bf7184372299e95333ada8cc527/output/AndroidManifest.xml:20:5-66
 	android:name
 		ADDED from /Users/daniellundekvam/Code/wheretowizz/android/app/src/main/AndroidManifest.xml:6:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from /Users/daniellundekvam/Code/wheretowizz/android/app/src/main/AndroidManifest.xml:7:5-77
-MERGED from [com.facebook.react:react-native:0.44.3] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.44.3] /Users/daniellundekvam/.android/build-cache/501291ddf9fee5f5516f34edd0b3404370bf8d5f/output/AndroidManifest.xml:11:5-78
 	android:name
 		ADDED from /Users/daniellundekvam/Code/wheretowizz/android/app/src/main/AndroidManifest.xml:7:22-75
 uses-permission#android.permission.ACCESS_FINE_LOCATION
@@ -51,41 +51,41 @@ ADDED from /Users/daniellundekvam/Code/wheretowizz/android/app/src/main/AndroidM
 		ADDED from /Users/daniellundekvam/Code/wheretowizz/android/app/src/main/AndroidManifest.xml:13:22-95
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
 ADDED from /Users/daniellundekvam/Code/wheretowizz/android/app/src/main/AndroidManifest.xml:14:5-80
-MERGED from [wheretowizz:react-native-maps:unspecified] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/wheretowizz/react-native-maps/unspecified/AndroidManifest.xml:10:5-81
+MERGED from [wheretowizz:react-native-maps:unspecified] /Users/daniellundekvam/Code/wheretowizz/node_modules/react-native-maps/lib/android/build/intermediates/bundles/default/AndroidManifest.xml:10:5-81
 	android:name
 		ADDED from /Users/daniellundekvam/Code/wheretowizz/android/app/src/main/AndroidManifest.xml:14:22-78
 uses-sdk
 ADDED from /Users/daniellundekvam/Code/wheretowizz/android/app/src/main/AndroidManifest.xml:16:5-18:41
-MERGED from [wheretowizz:react-native-maps:unspecified] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/wheretowizz/react-native-maps/unspecified/AndroidManifest.xml:5:5-7:41
-MERGED from [wheretowizz:react-native-admob:unspecified] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/wheretowizz/react-native-admob/unspecified/AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.android.gms:play-services-ads:11.0.4] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/11.0.4/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/11.0.4/AndroidManifest.xml:22:5-43
-MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/11.0.4/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-gass:11.0.4] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/11.0.4/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/11.0.4/AndroidManifest.xml:17:5-43
-MERGED from [wheretowizz:react-native-vector-icons:unspecified] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/wheretowizz/react-native-vector-icons/unspecified/AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/11.0.4/AndroidManifest.xml:23:5-43
-MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.4/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/AndroidManifest.xml:17:5-43
-MERGED from [com.facebook.react:react-native:0.44.3] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:25.2.0] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.2.0] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.2.0] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.2.0] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.2.0] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.2.0] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/AndroidManifest.xml:21:5-23:58
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/AndroidManifest.xml:14:5-16:41
-MERGED from [com.facebook.fresco:fresco:1.0.1] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:1.0.1] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.0.1] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.0.1] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.0.1] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:1.0.1] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/AndroidManifest.xml:2:3-70
+MERGED from [wheretowizz:react-native-maps:unspecified] /Users/daniellundekvam/Code/wheretowizz/node_modules/react-native-maps/lib/android/build/intermediates/bundles/default/AndroidManifest.xml:5:5-7:41
+MERGED from [wheretowizz:react-native-admob:unspecified] /Users/daniellundekvam/Code/wheretowizz/node_modules/react-native-admob/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] /Users/daniellundekvam/.android/build-cache/796b521b3c0cbb6fe6d68f0a19a1997e818baae6/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/daniellundekvam/.android/build-cache/9a5684adb65d347e94a94243c59d0fa45e527278/output/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /Users/daniellundekvam/.android/build-cache/5e8022e7ed099b3a74545a4d027da7090009d31b/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /Users/daniellundekvam/.android/build-cache/0bd79c6007feeb6b805ac99e41f44151173bb4f5/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /Users/daniellundekvam/.android/build-cache/d5f309f3674483f5de37e390649efce38c978d71/output/AndroidManifest.xml:17:5-43
+MERGED from [wheretowizz:react-native-vector-icons:unspecified] /Users/daniellundekvam/Code/wheretowizz/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/daniellundekvam/.android/build-cache/0847c9cdfe9f8bf7184372299e95333ada8cc527/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/daniellundekvam/.android/build-cache/b6fffdd70036119d6554800add7e2fc4fa9eca38/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/daniellundekvam/.android/build-cache/1bddeca73681966d003685706f4f491ccb2cad49/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/daniellundekvam/.android/build-cache/89ac6c216150750051f3c75b6b6a40bc6d25c91f/output/AndroidManifest.xml:17:5-43
+MERGED from [com.facebook.react:react-native:0.44.3] /Users/daniellundekvam/.android/build-cache/501291ddf9fee5f5516f34edd0b3404370bf8d5f/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/daniellundekvam/.android/build-cache/199913eb9f8e9c5c781caddc2430cdf467c0abb3/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.2.0] /Users/daniellundekvam/.android/build-cache/612cce7a9ab3f4bb02ae10125e0ef169b4e83b8e/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/daniellundekvam/.android/build-cache/c5e9b88849bcdfa636b3e703a97efadcdc4ac3ec/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/daniellundekvam/.android/build-cache/f1a432deb29f7bd08cae739deac39bf699367623/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/daniellundekvam/.android/build-cache/d95959db76399d2134746ad6f758c1fd75272f57/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/daniellundekvam/.android/build-cache/6b74855593241a1ec89af4c30b9fd69df639cc32/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] /Users/daniellundekvam/.android/build-cache/ede6ad96f76788810e25f1cbb6f7b7884d855d23/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/daniellundekvam/.android/build-cache/d12774fb40216b698694d11072bdc7067ca414da/output/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.0.1] /Users/daniellundekvam/.android/build-cache/ecda772f9799b16e220b5d21b0f6b12a9e8c60fe/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.0.1] /Users/daniellundekvam/.android/build-cache/fc9cb92acc2663a70d9f1a63bd729632825f65e7/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.0.1] /Users/daniellundekvam/.android/build-cache/c974fd6fe359d09e7cd42eda08d64cb15d8c6ad3/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.0.1] /Users/daniellundekvam/.android/build-cache/3cff657d531a681641d5bf2b6e0c19907945c29f/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.0.1] /Users/daniellundekvam/.android/build-cache/e70d212d8cee003bbe2ce9cd24259e2b3540c3b1/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.0.1] /Users/daniellundekvam/.android/build-cache/e13100b9866e857574fa43827fb5fe8bb7fb4406/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/daniellundekvam/.android/build-cache/40ea9080c6e063480cae5a46ea6581d0f6bd6511/output/AndroidManifest.xml:2:3-70
 	tools:overrideLibrary
-		ADDED from [com.android.support:support-v4:25.2.0] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/AndroidManifest.xml:23:9-51
+		ADDED from [com.android.support:support-v4:25.2.0] /Users/daniellundekvam/.android/build-cache/612cce7a9ab3f4bb02ae10125e0ef169b4e83b8e/output/AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
 		ADDED from /Users/daniellundekvam/Code/wheretowizz/android/app/src/main/AndroidManifest.xml:18:9-38
 		INJECTED from /Users/daniellundekvam/Code/wheretowizz/android/app/src/main/AndroidManifest.xml
@@ -96,24 +96,24 @@ MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/daniellundekvam/Code/w
 		INJECTED from /Users/daniellundekvam/Code/wheretowizz/android/app/src/main/AndroidManifest.xml
 application
 ADDED from /Users/daniellundekvam/Code/wheretowizz/android/app/src/main/AndroidManifest.xml:20:5-38:19
-MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/11.0.4/AndroidManifest.xml:23:5-26:19
-MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/11.0.4/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-gass:11.0.4] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/11.0.4/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/11.0.4/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/11.0.4/AndroidManifest.xml:24:5-19
-MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.4/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/AndroidManifest.xml:19:5-21:19
-MERGED from [com.facebook.react:react-native:0.44.3] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/AndroidManifest.xml:13:5-20
-MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:25.2.0] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.2.0] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.2.0] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.2.0] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.2.0] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.2.0] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/AndroidManifest.xml:25:5-20
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/AndroidManifest.xml:3:3-17
-MERGED from [org.webkit:android-jsc:r174650] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/org.webkit/android-jsc/r174650/AndroidManifest.xml:2:3-17
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/daniellundekvam/.android/build-cache/9a5684adb65d347e94a94243c59d0fa45e527278/output/AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /Users/daniellundekvam/.android/build-cache/5e8022e7ed099b3a74545a4d027da7090009d31b/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /Users/daniellundekvam/.android/build-cache/0bd79c6007feeb6b805ac99e41f44151173bb4f5/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /Users/daniellundekvam/.android/build-cache/d5f309f3674483f5de37e390649efce38c978d71/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/daniellundekvam/.android/build-cache/0847c9cdfe9f8bf7184372299e95333ada8cc527/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/daniellundekvam/.android/build-cache/b6fffdd70036119d6554800add7e2fc4fa9eca38/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/daniellundekvam/.android/build-cache/1bddeca73681966d003685706f4f491ccb2cad49/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/daniellundekvam/.android/build-cache/89ac6c216150750051f3c75b6b6a40bc6d25c91f/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.facebook.react:react-native:0.44.3] /Users/daniellundekvam/.android/build-cache/501291ddf9fee5f5516f34edd0b3404370bf8d5f/output/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/daniellundekvam/.android/build-cache/199913eb9f8e9c5c781caddc2430cdf467c0abb3/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/daniellundekvam/.android/build-cache/612cce7a9ab3f4bb02ae10125e0ef169b4e83b8e/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/daniellundekvam/.android/build-cache/c5e9b88849bcdfa636b3e703a97efadcdc4ac3ec/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/daniellundekvam/.android/build-cache/f1a432deb29f7bd08cae739deac39bf699367623/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/daniellundekvam/.android/build-cache/d95959db76399d2134746ad6f758c1fd75272f57/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/daniellundekvam/.android/build-cache/6b74855593241a1ec89af4c30b9fd69df639cc32/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/daniellundekvam/.android/build-cache/ede6ad96f76788810e25f1cbb6f7b7884d855d23/output/AndroidManifest.xml:25:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/daniellundekvam/.android/build-cache/40ea9080c6e063480cae5a46ea6581d0f6bd6511/output/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/daniellundekvam/.android/build-cache/38d2ba29b3b2ff471b905f561b31cc07f6ddcd7b/output/AndroidManifest.xml:2:3-17
 	android:label
 		ADDED from /Users/daniellundekvam/Code/wheretowizz/android/app/src/main/AndroidManifest.xml:23:7-39
 	android:allowBackup
@@ -155,39 +155,39 @@ ADDED from /Users/daniellundekvam/Code/wheretowizz/android/app/src/main/AndroidM
 	android:name
 		ADDED from /Users/daniellundekvam/Code/wheretowizz/android/app/src/main/AndroidManifest.xml:37:18-63
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/11.0.4/AndroidManifest.xml:20:5-78
-MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/11.0.4/AndroidManifest.xml:19:5-78
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/daniellundekvam/.android/build-cache/9a5684adb65d347e94a94243c59d0fa45e527278/output/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/daniellundekvam/.android/build-cache/0847c9cdfe9f8bf7184372299e95333ada8cc527/output/AndroidManifest.xml:19:5-78
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/11.0.4/AndroidManifest.xml:20:22-76
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/daniellundekvam/.android/build-cache/9a5684adb65d347e94a94243c59d0fa45e527278/output/AndroidManifest.xml:20:22-76
 activity#com.google.android.gms.ads.AdActivity
-ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/11.0.4/AndroidManifest.xml:25:9-232
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/daniellundekvam/.android/build-cache/9a5684adb65d347e94a94243c59d0fa45e527278/output/AndroidManifest.xml:25:9-232
 	android:configChanges
-		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/11.0.4/AndroidManifest.xml:25:72-181
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/daniellundekvam/.android/build-cache/9a5684adb65d347e94a94243c59d0fa45e527278/output/AndroidManifest.xml:25:72-181
 	android:theme
-		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/11.0.4/AndroidManifest.xml:25:182-230
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/daniellundekvam/.android/build-cache/9a5684adb65d347e94a94243c59d0fa45e527278/output/AndroidManifest.xml:25:182-230
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/11.0.4/AndroidManifest.xml:25:19-71
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/daniellundekvam/.android/build-cache/9a5684adb65d347e94a94243c59d0fa45e527278/output/AndroidManifest.xml:25:19-71
 uses-feature#0x00020000
-ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/11.0.4/AndroidManifest.xml:21:5-77
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/daniellundekvam/.android/build-cache/0847c9cdfe9f8bf7184372299e95333ada8cc527/output/AndroidManifest.xml:21:5-77
 	android:glEsVersion
-		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/11.0.4/AndroidManifest.xml:21:19-51
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/daniellundekvam/.android/build-cache/0847c9cdfe9f8bf7184372299e95333ada8cc527/output/AndroidManifest.xml:21:19-51
 	android:required
-		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/11.0.4/AndroidManifest.xml:21:52-75
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/daniellundekvam/.android/build-cache/0847c9cdfe9f8bf7184372299e95333ada8cc527/output/AndroidManifest.xml:21:52-75
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/AndroidManifest.xml:19:9-172
+ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/daniellundekvam/.android/build-cache/b6fffdd70036119d6554800add7e2fc4fa9eca38/output/AndroidManifest.xml:19:9-172
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/AndroidManifest.xml:19:146-170
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/daniellundekvam/.android/build-cache/b6fffdd70036119d6554800add7e2fc4fa9eca38/output/AndroidManifest.xml:19:146-170
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/AndroidManifest.xml:19:86-145
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/daniellundekvam/.android/build-cache/b6fffdd70036119d6554800add7e2fc4fa9eca38/output/AndroidManifest.xml:19:86-145
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/AndroidManifest.xml:19:19-85
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/daniellundekvam/.android/build-cache/b6fffdd70036119d6554800add7e2fc4fa9eca38/output/AndroidManifest.xml:19:19-85
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/AndroidManifest.xml:20:9-121
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/daniellundekvam/.android/build-cache/89ac6c216150750051f3c75b6b6a40bc6d25c91f/output/AndroidManifest.xml:20:9-121
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/AndroidManifest.xml:20:66-119
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/daniellundekvam/.android/build-cache/89ac6c216150750051f3c75b6b6a40bc6d25c91f/output/AndroidManifest.xml:20:66-119
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/AndroidManifest.xml:20:20-65
-android:uses-permission#android.permission.READ_PHONE_STATE
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/daniellundekvam/.android/build-cache/89ac6c216150750051f3c75b6b6a40bc6d25c91f/output/AndroidManifest.xml:20:20-65
+uses-permission#android.permission.READ_PHONE_STATE
 IMPLIED from /Users/daniellundekvam/Code/wheretowizz/android/app/src/main/AndroidManifest.xml:1:1-40:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
-android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
 IMPLIED from /Users/daniellundekvam/Code/wheretowizz/android/app/src/main/AndroidManifest.xml:1:1-40:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

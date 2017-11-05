@@ -5,6 +5,7 @@
 	};
 	objectVersion = 46;
 	objects = {
+
 /* Begin PBXBuildFile section */
 		00C302E51ABCBA2D00DB3ED1 /* libRCTActionSheet.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302AC1ABCB8CE00DB3ED1 /* libRCTActionSheet.a */; };
 		00C302E71ABCBA2D00DB3ED1 /* libRCTGeolocation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302BA1ABCB90400DB3ED1 /* libRCTGeolocation.a */; };
@@ -544,6 +545,17 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		2DDF26241F9E7F5C007E12E9 /* Recovered References */ = {
+			isa = PBXGroup;
+			children = (
+				4799FFCAB5AD40218F1D7508 /* libAirMaps.a */,
+				00C6450B61CF4BAA890C04CA /* libReactNativePermissions.a */,
+				BB39A8BF3E7D44D0A3541B5C /* libRNVectorIcons.a */,
+				B5680D1EA55B4E3AAFE13F91 /* libRNAdMobManager.a */,
+			);
+			name = "Recovered References";
+			sourceTree = "<group>";
+		};
 		3C595070EBAE40A68DFC3DB1 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
@@ -620,6 +632,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				3C595070EBAE40A68DFC3DB1 /* Resources */,
 				84DB875E1F44971E008619B8 /* Frameworks */,
+				2DDF26241F9E7F5C007E12E9 /* Recovered References */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";

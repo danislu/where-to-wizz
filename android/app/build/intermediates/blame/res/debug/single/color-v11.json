@@ -1,18 +1,10 @@
 [
     {
         "merged": "/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
-    },
-    {
-        "merged": "/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
-        "source": "/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+        "source": "/Users/daniellundekvam/.android/build-cache/199913eb9f8e9c5c781caddc2430cdf467c0abb3/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     },
     {
         "merged": "/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
-        "source": "/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
-    },
-    {
-        "merged": "/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/Volumes/Data/Code/reactnative/where-to-wizz/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+        "source": "/Users/daniellundekvam/.android/build-cache/199913eb9f8e9c5c781caddc2430cdf467c0abb3/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     }
 ]

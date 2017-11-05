@@ -3,345 +3,345 @@
 
     <item
         is-multidex="false"
-        jar="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jar="/Users/daniellundekvam/.android/build-cache/1bddeca73681966d003685706f4f491ccb2cad49/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
-        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_53739cbed02dd15116ba11d902936bc8d4079b48.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/11.0.4/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
-        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-11.0.4_d593f9acc5d7a66419592f3b8420d3a1ba78675c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
-        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_5d340b7e7d7f2f93a49569e88e8503831b237fa5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
-        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-11.0.4_43e0a1b181d64ad221eb79887fd6e3c035575ff6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/daniellundekvam/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
-        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_951bcb59cfdd650b1885d0eb41d91d376e6deef5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_ca912fb57540b04c868780ae8214625b4e370c29.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_f29b5cdd3edaa8a86eefb7e63a4bae2c09a401d7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/daniellundekvam/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
-        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_95a1a4dcaa59fcf99cb09f2c2cfc72a6422fdb22.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
-        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_0c6a3b00947ede50e821a71e16ddc17f042a1b58.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
-        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_db00ac46148961d0d4607e442440c4978cedcb46.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
-        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_52fe8107756225da5a717c3dfd81fee6beeecba6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/11.0.4/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
-        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-11.0.4_d623d079ae8c47465dc2cd51f62fc693fb2418f8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/11.0.4/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
-        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-11.0.4_b0325138111168501fcf968eee2acaeb472ab0af.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/11.0.4/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
-        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-11.0.4_a6f1a7f40c70ca25042e6a6e4daacd8d9830c633.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/wheretowizz/react-native-vector-icons/unspecified/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
-        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/debug/wheretowizz-react-native-vector-icons-unspecified_e42f03814abda5266ae5d265e47e9cadab7c53af.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_97868c8d10d5051a1aafcab3e1d98e90a8ee9cdb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/wheretowizz/react-native-maps/unspecified/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="4a5cfa49f964d9ec42d13b5c2f8bc222d2a8feab">
-        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/debug/wheretowizz-react-native-maps-unspecified_fbed4350d8be649e00564cd1651092124f4ca0c8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_92534028b1013a06966bab92adfaa468dd71defc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/jars/libs/infer-annotations-1.5.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
-        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_efeeef07886ba1a32f5cc97eedefa98e120953ed.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.4/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
+        revision="25.0.0"
         sha1="2430e711762a749feb00b3d64858ca4768251b9d">
-        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-11.0.4_db6943d214c4689ce0b49d0a5d46f57aab0aa6ef.jar" />
+        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/release/classes_513c58fc66b20d2f4df33e6995dddd8c34a97bff.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/11.0.4/jars/classes.jar"
+        jar="/Users/daniellundekvam/.android/build-cache/796b521b3c0cbb6fe6d68f0a19a1997e818baae6/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
-        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-11.0.4_ba794df7e09a46f9440fc2298fa2cd4138009d6c.jar" />
+        revision="25.0.0"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/release/classes_bd142acac640bc820f038c085fc4fc9a7323c877.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/jars/classes.jar"
+        jar="/Users/daniellundekvam/.android/build-cache/5e8022e7ed099b3a74545a4d027da7090009d31b/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
-        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-11.0.4_a5b0ccaf0688437c9c7093041efbe67c5cb77b3f.jar" />
+        revision="25.0.0"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/release/classes_c7c538cfdfa6707234aa31e4729c6af97b392d28.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jar="/Users/daniellundekvam/.android/build-cache/3cff657d531a681641d5bf2b6e0c19907945c29f/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
-        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_7090d5fdb45a63f23b2f321ebaf06790db41fb79.jar" />
+        revision="25.0.0"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/release/classes_4cb9a6c1f5d23b1a0a9394af14873d1c58258520.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/daniellundekvam/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jar="/Users/daniellundekvam/.android/build-cache/e13100b9866e857574fa43827fb5fe8bb7fb4406/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_0713a8b80887b73c5626c8a4a03ebc68ae80c381.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
-        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_1006b7427b5e189854cfa3073ee280d68cd10a7e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/wheretowizz/react-native-admob/unspecified/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="21449f13b1d382578eab07fb71a847f5b7e8ed12">
-        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/debug/wheretowizz-react-native-admob-unspecified_e92ea27e77fc67817a02dacb5b7c631888569739.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/daniellundekvam/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_fc30a01c75f4aa4ef1c354de51b7984d33fe79d2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="af9665a44df26b4098e24c934c1109507845ef5e">
-        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.44.3_40b08e36db2d9c7fba1ea1738b354e6f0fba30d8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/daniellundekvam/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_2b1e42e70e473041477bffb4b51eaeeda7a910a5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/daniellundekvam/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
-        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_78eece4e90e6d1f4a4c8662dad8bc1440af5d947.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/11.0.4/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
-        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-11.0.4_1ec66a1654adb98b313b11c5aec8a2f49bb172d8.jar" />
+        revision="25.0.0"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/release/classes_c110f4e1689b72d3ac69a9f42ecc384c2f26fb47.jar" />
     </item>
     <item
         is-multidex="false"
         jar="/Users/daniellundekvam/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
+        revision="25.0.0"
         sha1="63994437f62bc861bc20c605d12962f7246116d1">
-        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_4c23709e59302ace8cb2b208ae59dcb907e96030.jar" />
+        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/release/okhttp-urlconnection-3.4.1_4c23709e59302ace8cb2b208ae59dcb907e96030.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jar="/Users/daniellundekvam/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
-        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_abd0a7234beaee444a0df62700708f55c8bd3348.jar" />
+        revision="25.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/release/jsr305-3.0.0_fc30a01c75f4aa4ef1c354de51b7984d33fe79d2.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jar="/Users/daniellundekvam/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
-        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_d66014733d4c568d81427f87f4d4c77910f83894.jar" />
+        revision="25.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/release/okhttp-3.4.1_78eece4e90e6d1f4a4c8662dad8bc1440af5d947.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jar="/Users/daniellundekvam/.android/build-cache/f1a432deb29f7bd08cae739deac39bf699367623/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/release/classes_4797b36e16257367f28eb14d018f0d7752ec1329.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniellundekvam/.android/build-cache/c974fd6fe359d09e7cd42eda08d64cb15d8c6ad3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
         sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
-        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_c640fd76b9040ed84784b1ec76c7df80bc054229.jar" />
+        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/release/classes_ba7de7d656bb898445182f4f408ec9872e5802eb.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/daniellundekvam/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jar="/Users/daniellundekvam/.android/build-cache/0847c9cdfe9f8bf7184372299e95333ada8cc527/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
-        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_d26cacf632b66d860a0b07f3604f7bc069b8ca6e.jar" />
+        revision="25.0.0"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/release/classes_8389e6e43f9cba10ea6787b07f494b1a7a0394f1.jar" />
     </item>
     <item
         is-multidex="false"
         jar="/Users/daniellundekvam/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
+        revision="25.0.0"
         sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_32ccb03c7629727edd586c79bacf221bddd1ff67.jar" />
+        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/release/bolts-tasks-1.4.0_32ccb03c7629727edd586c79bacf221bddd1ff67.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jar="/Users/daniellundekvam/.android/build-cache/d95959db76399d2134746ad6f758c1fd75272f57/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
-        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_2de7cac51ef58900c4c1e96b6f41252b0d218e69.jar" />
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/release/classes_e5c9b24b048eacd850558567c203c845ae236849.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniellundekvam/.android/build-cache/b6fffdd70036119d6554800add7e2fc4fa9eca38/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/release/classes_03a7ec04ede472bb4475e8c7feecfc2140b21122.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniellundekvam/.android/build-cache/fc9cb92acc2663a70d9f1a63bd729632825f65e7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/release/classes_299835ffc5829429d60d97da30aa06007b26c58c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniellundekvam/.android/build-cache/6b74855593241a1ec89af4c30b9fd69df639cc32/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/release/classes_7d0065e690929655460076213b691d9a2cec234f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniellundekvam/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/release/okio-1.9.0_d26cacf632b66d860a0b07f3604f7bc069b8ca6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniellundekvam/.android/build-cache/0bd79c6007feeb6b805ac99e41f44151173bb4f5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/release/classes_883d95ed1f0f9bb221df84f0a2f89622843aad99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniellundekvam/.android/build-cache/e70d212d8cee003bbe2ce9cd24259e2b3540c3b1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/release/classes_f110bffb739f9df2f1cb27720cfa24b7b54b450c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniellundekvam/Code/wheretowizz/node_modules/react-native-maps/lib/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5cfa49f964d9ec42d13b5c2f8bc222d2a8feab">
+        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/release/classes_15652c36c6fe5c39301052834493ddce4bddfaec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniellundekvam/Code/wheretowizz/node_modules/react-native-admob/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="21449f13b1d382578eab07fb71a847f5b7e8ed12">
+        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/release/classes_76a129361c0b5aa1a5d44df683b1bafee6c70094.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniellundekvam/.android/build-cache/40ea9080c6e063480cae5a46ea6581d0f6bd6511/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/release/classes_e263c8203b5cee41c194742030a235d05c61523d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniellundekvam/.android/build-cache/89ac6c216150750051f3c75b6b6a40bc6d25c91f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/release/classes_3ecbb8ef26948f05e4062c0504ecdb3ec1c835de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniellundekvam/.android/build-cache/199913eb9f8e9c5c781caddc2430cdf467c0abb3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/release/classes_f4cc3bd5c0c943a2a8762e566278546b3ad0c9db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniellundekvam/.android/build-cache/501291ddf9fee5f5516f34edd0b3404370bf8d5f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af9665a44df26b4098e24c934c1109507845ef5e">
+        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/release/classes_6206c5e70805d1b3f0589e4534c3204cacc29ddb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniellundekvam/.android/build-cache/501291ddf9fee5f5516f34edd0b3404370bf8d5f/output/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/release/infer-annotations-1.5_b87be8e52ecfe078a2f0fd14be313bba90f0a892.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniellundekvam/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/release/support-annotations-25.2.0_95a1a4dcaa59fcf99cb09f2c2cfc72a6422fdb22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniellundekvam/.android/build-cache/d5f309f3674483f5de37e390649efce38c978d71/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/release/classes_2e8da00fb842dc522a27549f349193565f56db4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniellundekvam/Code/wheretowizz/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/release/classes_32273a9eec6536985f43ff9a97c9a639b63800f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniellundekvam/.android/build-cache/ecda772f9799b16e220b5d21b0f6b12a9e8c60fe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/release/classes_d72b6cf996ad5be790e8311e243727996dd472a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniellundekvam/.android/build-cache/9a5684adb65d347e94a94243c59d0fa45e527278/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/release/classes_11221ebf2ce3a4f7438944a9681e589aae20bf5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniellundekvam/.android/build-cache/c5e9b88849bcdfa636b3e703a97efadcdc4ac3ec/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/release/classes_04d4fe0fe01f82a2b2149d3f6b0a7df36926234c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniellundekvam/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/release/staticlayout-proxy-1.0_0713a8b80887b73c5626c8a4a03ebc68ae80c381.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniellundekvam/.android/build-cache/ede6ad96f76788810e25f1cbb6f7b7884d855d23/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/release/classes_bf0db358e3de3a1d95e6720581e31b9dd3e0878b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniellundekvam/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/release/okhttp-ws-3.4.1_951bcb59cfdd650b1885d0eb41d91d376e6deef5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniellundekvam/.android/build-cache/612cce7a9ab3f4bb02ae10125e0ef169b4e83b8e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/release/classes_97ebfbcd0ebc196650fa705d6c80e8e441c443bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniellundekvam/.android/build-cache/d12774fb40216b698694d11072bdc7067ca414da/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/release/classes_376c7aa68affa172af5f943b5a7b7c8b1dbd3b37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniellundekvam/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/daniellundekvam/Code/wheretowizz/android/app/build/intermediates/pre-dexed/release/javax.inject-1_2b1e42e70e473041477bffb4b51eaeeda7a910a5.jar" />
     </item>
 
 </items>

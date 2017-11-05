@@ -7,9 +7,10 @@ import styles from './styles';
 
 const userIcon = (<Icon name="map-marker" style={{ color: 'red' }} size={25} />);
 
+const iconSize = 25;
 const icon = (<View style={{ flexDirection: 'row' }}>
-  <Icon name="male" size={18} />
-  <Icon name="female" size={18} />
+  <Icon name="male" size={iconSize} />
+  <Icon name="female" size={iconSize} />
 </View>);
 
 const getCurrentPosMarker = (currentPos) => {
